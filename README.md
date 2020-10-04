@@ -1,6 +1,8 @@
 # species_classify
 
-A new Flutter application.
+A flutter project that records nasa' biodiversity open sourced data and real time data (Using a drone's camera), and visualizes them in a simple way for an ordinary user to understand and comprehend.
+
+I used flutter, and syncfusion for the map data visualization part of the application
 
 ## Getting Started
 
